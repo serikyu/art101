@@ -7,3 +7,10 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  .minor-section img {
+  
+    width: 100%;
+    height: auto; 
+    display: block;
+  }
