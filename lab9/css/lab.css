@@ -1,0 +1,22 @@
+/* Here we can set styles for this lab page that we don't want to effect others pages */
+
+/* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+h2 {
+
+  font-style: inherit;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.minor-section {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #bf4ec9;
+  background-color: #f9ceff;
+}
+
+.special {
+  background-color: lavender;
+  border: dotted 12px rgb(255, 208, 252);
+  color: rgb(255, 133, 243);
+  font-weight: bold;
+} 
