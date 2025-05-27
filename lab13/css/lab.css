@@ -4,7 +4,6 @@
   margin: 3px;
   padding: 5px 10px;
   border-radius: 15px;
-  background-color: rgb(0, 6, 53);
   color: white;
   font-family: sans-serif;
   font-size: 0.8em;
@@ -13,7 +12,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
-  background-color: #00053e;
+  background-color: #cdcdf4;
 }
 
 h1, h2 {
@@ -50,5 +49,16 @@ button {
 }
 
 button:hover {
-  background-color: #8c38a9;
+  background-color: #552067;
+}
+
+.controls {
+  background-color: #bd95df;
+  padding: 20px;
+  border: 1px solid #550071;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
 }
