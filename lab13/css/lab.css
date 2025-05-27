@@ -25,11 +25,10 @@ h1, h2 {
   padding: 10px;
   border: 1px solid #ccc;
   background-color: #fff;
-
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px; /* Optional: adds space between items */
+  gap: 20px;
 }
 
 .controls table {
