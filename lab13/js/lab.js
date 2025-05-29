@@ -2,6 +2,13 @@
 // Author: Ren Buendia
 // Date: 5/26/2025
 
+const FACTORS = [
+  { factor: 3, word: "Fizz" },
+  { factor: 5, word: "Buzz" },
+  { factor: 7, word: "Bang" }
+];
+const DEFAULT_MAX = 100;
+
 function fizzBuzzBoom() {
   $("#output").html("");
 
